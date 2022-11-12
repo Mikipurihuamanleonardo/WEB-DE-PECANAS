@@ -1,0 +1,3 @@
+paletas de colores de la tareas de pecanas
+#60413E
+#854045

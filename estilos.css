@@ -1,0 +1,27 @@
+body{
+    background-image: url(/img/FONDO.jpg);
+}
+header{
+    color: gray;
+}
+
+h1{
+    text-align: center;
+    color: #2B0504;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fasthand', cursive;
+    font-size: 17mm;
+}
+header{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: 'Fasthand', cursive;
+}
+h2{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 8mm;
+}
+    
